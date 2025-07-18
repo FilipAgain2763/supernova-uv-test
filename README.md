@@ -1,6 +1,6 @@
 <p align="center"><img src="https://raw.githubusercontent.com/titaniumnetwork-dev/Ultraviolet-Static/main/public/uv.png" height="250"></p>
 
-<h1 align="center">Ultraviolet</h1>
+<h1 align="center">Supernova Ultraviolet Tester</h1>
 
 <a href="https://www.npmjs.com/package/@titaniumnetwork-dev/ultraviolet"><img src="https://img.shields.io/npm/v/@titaniumnetwork-dev/ultraviolet.svg?maxAge=3600" alt="npm version" /></a>
 
@@ -31,6 +31,7 @@ Some of the popular websites that Ultraviolet supports include:
 -   [AnuraOS](https://github.com/MercuryWorkshop/anuraOS)
 -   [Terbium](https://github.com/TerbiumOS/webOS)
 -   [Metallic](https://github.com/Metallic-Web/Metallic)
+-   and [Supernova](https://supernovav1.web.app/worksheets/index.html)
 
 ## Upgrading
 
